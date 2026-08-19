@@ -1,0 +1,8 @@
+[book]
+title = "The Krypton Documentation"
+authors = ["Yash Sharma"]
+language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/kryptonoss"
+edit-url-template = "https://github.com/kryptonoss/kryptonoss.github.io/edit/main/{path}"
