@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "Releases"
 layout = "archive"
 permalink = "/releases/"
 +++
