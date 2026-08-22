@@ -1,5 +1,0 @@
-# The Krypton Project
-
-
-
-

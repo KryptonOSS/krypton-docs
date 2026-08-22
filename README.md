@@ -1,1 +1,2 @@
-# Website
+# Krypton Docs
+

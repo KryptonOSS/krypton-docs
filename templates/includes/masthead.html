@@ -1,0 +1,14 @@
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="masthead__title {% if page.url == '/' %}selected{% endif %}" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-input">
+        <label for="nav-toggle" class="nav-toggle-label"><span class="navicon"></span></label>
+        <ul class="visible-links">
+          {{ site.navigation_html }}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>

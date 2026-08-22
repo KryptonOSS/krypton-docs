@@ -1,0 +1,10 @@
+{% if page.header.overlay_image %}
+  <div class="page__hero" style="background-image: url('{{ page.header.overlay_image }}');">
+    <div class="page__hero-overlay"></div>
+    <div class="page__hero-content">
+      {{ content }}
+    </div>
+  </div>
+{% else %}
+  {{ content }}
+{% endif %}
