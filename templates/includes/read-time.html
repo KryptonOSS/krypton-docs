@@ -1,1 +1,0 @@
-{% assign chars = page.content | strip_html | size %}{% assign words = chars | abs | divided_by(5) %}{% assign minutes = words | divided_by(160) %}{% if minutes < 1 %}1 min read{% else %}{{ minutes }} min read{% endif %}

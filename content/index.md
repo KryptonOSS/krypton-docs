@@ -1,7 +1,0 @@
-+++
-permalink = "/"
-title = "Overview"
-+++
----
-
-Krypton 
