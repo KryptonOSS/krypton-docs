@@ -1,2 +1,2 @@
-# Krypton Docs
+This repository contains documentation for Krypton.
 
