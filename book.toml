@@ -4,4 +4,4 @@ authors = ["Yash Sharma"]
 language = "en"
 
 [output.html]
-git-repository-url = "https://github.com/KryptonOSS/kryptonoss.github.io"
+git-repository-url = "https://github.com/KryptonOSS/krypton-docs"
